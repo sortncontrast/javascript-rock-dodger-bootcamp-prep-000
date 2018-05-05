@@ -120,19 +120,6 @@ function moveDodger(e) {
       
     }
   });
-}
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-
   // implement me!
   /**
    * This function should call `moveDodgerLeft()`
